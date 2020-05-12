@@ -1,0 +1,43 @@
+body {
+    background-image: url('https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_960_720.jpg');
+    background-size: auto 100vh;
+    font-family: arial;
+  }
+  
+  .site-title,
+  .site-subtitle { 
+    color: #BDBDBD;
+    text-align: center;
+  }
+  
+  .site-title {
+    font-style: 
+  }
+  
+  .site-subtitle {
+    font-style: italic;  
+  }
+  .menu{
+    background-color: #0B2F3A;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  
+  
